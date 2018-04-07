@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        //；；；；；；；
+       
         // ラベルに値を設定する
         sampleLabel.text = "sampleString"
     }
